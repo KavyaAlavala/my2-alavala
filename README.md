@@ -20,3 +20,7 @@ My favorite spot in Hyderabad is **Charminar**, an iconic monument that beautifu
 * shawarma 
 * Haleem
 * Sweets
+
+___link to the Mystats.md:___
+https://github.com/KavyaAlavala/my2-alavala/blob/main/Mystats.md
+
